@@ -1,0 +1,6 @@
+# Submission Instructions
+
+**To participate in this competition, you must create and share a public Kaggle Notebook that demonstrates how to effectively fine-tune Gemma for various languages and/or cultural contexts
+You must publish your Gemma model variant to Kaggle models, and provide steps to run inference with their model. All team members must be listed as collaborators on the notebook, and the notebook must be submitted via the [Google Form](https://www.kaggle.com/gemma-language-tuning-submissions). All submissions will be assessed initially according to the eligibility criteria, and all eligible submissions will be scored according to the evaluation rubric. We will grade the most recent submission from your team (per competition, not per category).
+
+**To submit to this competition fill out the Google Form [here](https://www.kaggle.com/gemma-language-tuning-submissions).**
